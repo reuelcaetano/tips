@@ -1,1 +1,3 @@
 # Dicas de Python
+
+Algoritmos
